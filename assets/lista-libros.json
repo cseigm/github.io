@@ -2,16 +2,57 @@
     {
     "id": 1,
     "titulo": "Te veré bajo el hielo",
-    "autor": "Robert Bryndza"
+    "autor": "Robert Bryndza",
+    "prize": "25€",
+    "sinopsis": "Un joven descubre el cadáver de una chica debajo de una gruesa capa de hielo en un parque del sur de Londres"
  },
  {
     "id": 2,
     "titulo": "Dime quién soy",
-    "autor": "Julia Navarro"
+    "autor": "Julia Navarro",
+    "prize": "20€",
+    "sinopsis": "Espionaje e intriga en estado puro, amores y desamores desgarrados, aventura e historia de un siglo ..."
  },
  {
     "id": 3,
     "titulo": "El día que se perdió la cordura",
-    "autor": "Javier Castillo"
+    "autor": "Javier Castillo",
+    "prize": "21€",
+    "sinopsis": "El doctor Jenkins, director del centro psiquiátrico de la ciudad, y Stella Hyden, agente de perfiles del FBI, se adentrarán en una investigación"
  }
+,
+ {
+    "id": 4,
+    "titulo": "El día que se perdió la cordura II",
+    "autor": "Javier Castillo",
+    "prize": "21€",
+    "sinopsis": "Segunda parte, El doctor Jenkins, director del centro psiquiátrico de la ciudad, y Stella Hyden, agente de perfiles del FBI, se adentrarán en una investigación"
+
+ },
+ {
+    "id": 5,
+    "titulo": "El día que se perdió la cordura III",
+    "autor": "Javier Castillo",
+    "prize": "21€",
+    "sinopsis": "Segunda parte, El doctor Jenkins, director del centro psiquiátrico de la ciudad, y Stella Hyden, agente de perfiles del FBI, se adentrarán en una investigación"
+
+ },
+ {
+    "id": 6,
+    "titulo": "El día que se perdió la cordura IV",
+    "autor": "Javier Castillo",
+    "prize": "21€",
+    "sinopsis": "Segunda parte, El doctor Jenkins, director del centro psiquiátrico de la ciudad, y Stella Hyden, agente de perfiles del FBI, se adentrarán en una investigación"
+
+ },
+ {
+    "id": 7,
+    "titulo": "El duque y yo",
+    "autor": "Julia Quinn",
+    "prize": "21€",
+    "sinopsis": "Todos parecían divertirse en aquel baile que reunía a lo más selecto de la sociedad londinense. Todos, excepto ellos dos. Daphne, una hermosa joven ..."
+
+ }
+
+
  ]
