@@ -4,6 +4,7 @@
     "titulo": "Te veré bajo el hielo",
     "autor": "Robert Bryndza",
     "prize": "25€",
+    "image": "assets/books/1.png",
     "sinopsis": "Un joven descubre el cadáver de una chica debajo de una gruesa capa de hielo en un parque del sur de Londres"
  },
  {
@@ -11,6 +12,7 @@
     "titulo": "Dime quién soy",
     "autor": "Julia Navarro",
     "prize": "20€",
+    "image": "assets/books/2.png",
     "sinopsis": "Espionaje e intriga en estado puro, amores y desamores desgarrados, aventura e historia de un siglo ..."
  },
  {
@@ -18,6 +20,7 @@
     "titulo": "El día que se perdió la cordura",
     "autor": "Javier Castillo",
     "prize": "21€",
+    "image": "assets/books/3.png",
     "sinopsis": "El doctor Jenkins, director del centro psiquiátrico de la ciudad, y Stella Hyden, agente de perfiles del FBI, se adentrarán en una investigación"
  }
 ,
@@ -26,6 +29,7 @@
     "titulo": "El día que se perdió la cordura II",
     "autor": "Javier Castillo",
     "prize": "21€",
+    "image": "assets/books/4.png",
     "sinopsis": "Segunda parte, El doctor Jenkins, director del centro psiquiátrico de la ciudad, y Stella Hyden, agente de perfiles del FBI, se adentrarán en una investigación"
 
  },
@@ -34,6 +38,7 @@
     "titulo": "El día que se perdió la cordura III",
     "autor": "Javier Castillo",
     "prize": "21€",
+    "image": "assets/books/5.png",
     "sinopsis": "Segunda parte, El doctor Jenkins, director del centro psiquiátrico de la ciudad, y Stella Hyden, agente de perfiles del FBI, se adentrarán en una investigación"
 
  },
@@ -42,6 +47,7 @@
     "titulo": "El día que se perdió la cordura IV",
     "autor": "Javier Castillo",
     "prize": "21€",
+    "image": "assets/books/6.png",
     "sinopsis": "Segunda parte, El doctor Jenkins, director del centro psiquiátrico de la ciudad, y Stella Hyden, agente de perfiles del FBI, se adentrarán en una investigación"
 
  },
@@ -50,6 +56,7 @@
     "titulo": "El duque y yo",
     "autor": "Julia Quinn",
     "prize": "21€",
+    "image": "assets/books/7.png",
     "sinopsis": "Todos parecían divertirse en aquel baile que reunía a lo más selecto de la sociedad londinense. Todos, excepto ellos dos. Daphne, una hermosa joven ..."
 
  }
